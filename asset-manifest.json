@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BusyBusy1/static/css/main.e4f1b190.css",
+    "main.js": "/BusyBusy1/static/js/main.85c6ff5b.js",
+    "index.html": "/BusyBusy1/index.html",
+    "main.e4f1b190.css.map": "/BusyBusy1/static/css/main.e4f1b190.css.map",
+    "main.85c6ff5b.js.map": "/BusyBusy1/static/js/main.85c6ff5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f1b190.css",
+    "static/js/main.85c6ff5b.js"
+  ]
+}
